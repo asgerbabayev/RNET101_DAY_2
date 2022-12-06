@@ -1,5 +1,3 @@
-# RNET101_DAY_2
-
 <h1>Task</h1>
 <h2>Verilmiş düzbucaqlı şkafın hər hansı bir qapıdan keçib keçmədiyini tapan algoritmini yazın.</h2>
 </br>
